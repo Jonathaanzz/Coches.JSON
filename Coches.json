@@ -1,0 +1,101 @@
+[
+    {
+        "nombre": "McLaren 720S",
+        "tipo": "Deportivo",
+        "año": 2020,
+        "motor": "4.0L V8 Twin-Turbo",
+        "potencia": "710 hp",
+        "velocidadMaxima": "341 km/h",
+        "aceleracion": "2.7 segundos",
+        "precio": "$300,000",
+        "imagen": "https://www.pngplay.com/wp-content/uploads/13/McLaren-720S-PNG-Photos.png"
+    },
+    {
+        "nombre": "Ford F-150 Raptor",
+        "tipo": "Camioneta",
+        "año": 2022,
+        "motor": "3.5L V6 Twin-Turbo",
+        "potencia": "450 hp",
+        "velocidadMaxima": "200 km/h",
+        "aceleracion": "5.3 segundos",
+        "precio": "$70,000",
+        "imagen": "https://purepng.com/public/uploads/large/purepng.com-ford-f-150-raptor-blue-carcarvehicletransportford-961524650083igijx.png"
+    },
+    {
+        "nombre": "Tesla Model S Plaid",
+        "tipo": "Eléctrico, Sedán de lujo",
+        "año": 2022,
+        "motor": "3 Motores eléctricos",
+        "potencia": "1,020 hp",
+        "velocidadMaxima": "322 km/h",
+        "aceleracion": "2.1 segundos",
+        "precio": "$130,000",
+        "imagen": "https://pluspng.com/img-png/tesla-png-take-a-chance-maybe-win-a-tesla-and-support-a-good-cause-750.png"
+    },
+    {
+        "nombre": "Chevrolet Silverado 2500HD",
+        "tipo": "Camioneta",
+        "año": 2023,
+        "motor": "6.6L V8 Diesel",
+        "potencia": "445 hp",
+        "velocidadMaxima": "175 km/h",
+        "aceleracion": "8.5 segundos",
+        "precio": "$55,000",
+        "imagen": "https://pluspng.com/img-png/chevrolet-hd-png-2016-chevrolet-silverado-2500-hd-in-nampa-id-angular-front-1000.png"
+    },
+    {
+        "nombre": "Porsche 911 Turbo S",
+        "tipo": "Deportivo",
+        "año": 2022,
+        "motor": "3.8L V6 Twin-Turbo",
+        "potencia": "640 hp",
+        "velocidadMaxima": "330 km/h",
+        "aceleracion": "2.6 segundos",
+        "precio": "$200,000",
+        "imagen": "https://purepng.com/public/uploads/large/purepng.com-porsche-911-turbo-silver-carcarvehicletransportporsche-961524645184kdemk.png"
+    },
+    {
+        "nombre": "Toyota Land Cruiser 300",
+        "tipo": "Camioneta SUV",
+        "año": 2023,
+        "motor": "3.3L V6 Diesel",
+        "potencia": "305 hp",
+        "velocidadMaxima": "210 km/h",
+        "aceleracion": "8.0 segundos",
+        "precio": "$85,000",
+        "imagen": "https://www.toyota.co.nz/globalassets/new-vehicles/land-cruiser/land-cruiser-300/2021/lc-300-vx/renders/land-cruiser-300-vx-fjav-nm1-crystal-pearl-070.png"
+    },
+    {
+        "nombre": "Ferrari 488 GTB",
+        "tipo": "Deportivo",
+        "año": 2020,
+        "motor": "3.9L V8 Twin-Turbo",
+        "potencia": "661 hp",
+        "velocidadMaxima": "330 km/h",
+        "aceleracion": "3.0 segundos",
+        "precio": "$270,000",
+        "imagen": "https://purepng.com/public/uploads/large/purepng.com-red-ferrari-488-gtb-carcarferrarivehicletransport-961524664035iiglb.png"
+    },
+    {
+        "nombre": "Lamborghini Aventador",
+        "tipo": "Deportivo",
+        "año": 2021,
+        "motor": "6.5L V12",
+        "potencia": "730 hp",
+        "velocidadMaxima": "352 km/h",
+        "aceleracion": "2.9 segundos",
+        "precio": "$400,000",
+        "imagen": "https://purepng.com/public/uploads/large/purepng.com-white-lamborghini-aventador-carcarvehicletransportlamborghini-961524647181bk5wq.png"
+    },
+    {
+        "nombre": "Audi Q7",
+        "tipo": "SUV",
+        "año": 2023,
+        "motor": "3.0L V6 Turboalimentado",
+        "potencia": "333 hp",
+        "velocidadMaxima": "250 km/h",
+        "aceleracion": "6.3 segundos",
+        "precio": "$75,000",
+        "imagen": "https://freepngimg.com/thumb/car/31534-2-car-file.png"
+    }
+]
